@@ -130,12 +130,6 @@ On the first `setPitch()` call, the plugin wraps the Leaflet map container in a 
 
 ---
 
-## Browser support
-
-Any browser that supports CSS 3D transforms — which is all modern browsers.
-
----
-
 ## License
 
 MIT
