@@ -17,7 +17,7 @@ Combined with [Leaflet-Rotate](https://github.com/Raruto/leaflet-rotate), you ge
 ### CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/madzae/leaflet-pitch/leaflet.pitch.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/madzae/leaflet.pitch@main/leaflet.pitch.js"></script>
 ```
 
 ### Manual
